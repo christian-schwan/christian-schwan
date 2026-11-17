@@ -46,7 +46,7 @@ All infrastructure is **managed as code** (Terraform), CI/CD-deployed, and built
 Terraform · Kubernetes (GKE) · Snowflake · TypeScript · Python · React · Shopify (Headless/Plus) ·
 SAP S/4HANA Cloud · **AI agents** (LangGraph · MCP · RAG: BM25 + Qdrant · SAML SSO) · Google Document AI
 
-📫 [schwan.io](https://schwan.io) · [LinkedIn](https://www.linkedin.com/in/christian-schwan-94629236/) · christian@schwan.io
+📫 [shopinator.io](https://shopinator.io) · [LinkedIn](https://www.linkedin.com/in/christian-schwan-94629236/)
 
 ---
 
