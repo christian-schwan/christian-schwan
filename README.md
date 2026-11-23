@@ -40,13 +40,12 @@ All infrastructure is **managed as code** (Terraform), CI/CD-deployed, and built
 - **horl.com** — *sole engineer.* Built end-to-end: event-driven AWS + GCP microservices,
   SAP S/4HANA + three 3PL integrations, Shopify headless across 27+ markets,
   3 business entities and 12+ currencies. Zero data/event loss by design.
-- **Shopinator** — independent Shopify App Store venture I design, build and ship solo.
 
 **Stack:** AWS (EventBridge · SQS · DLQ · Lambda) · Google Cloud (Cloud Run · Pub/Sub · BigQuery) ·
 Terraform · Kubernetes (GKE) · Snowflake · TypeScript · Python · React · Shopify (Headless/Plus) ·
 SAP S/4HANA Cloud · **AI agents** (LangGraph · MCP · RAG: BM25 + Qdrant · SAML SSO) · Google Document AI
 
-📫 [shopinator.io](https://shopinator.io) · [LinkedIn](https://www.linkedin.com/in/christian-schwan-94629236/)
+📫 [LinkedIn](https://www.linkedin.com/in/christian-schwan-94629236/)
 
 ---
 
